@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="34ab0949-9822-45e9-8f04-66a38e6c9ae9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/api/AIEngine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/api/GameEngine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/gamestate/Board.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/gamestate/Move.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/test/java/GamePlayTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TurnBasedGameAIEngine.iml" beforeDir="false" afterPath="$PROJECT_DIR$/TurnBasedGameAIEngine.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TurnBasedGameAIEngine/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TurnBasedGameAIEngine/api/GameEngine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TurnBasedGameAIEngine/boards/TicTacToeBoard.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TurnBasedGameAIEngine/gamestate/Board.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TurnBasedGameAIEngine/gamestate/Cell.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TurnBasedGameAIEngine/gamestate/GameResult.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TurnBasedGameAIEngine/gamestate/Move.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TurnBasedGameAIEngine/gamestate/Player.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/api/GameEngine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/api/RuleEngine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/boards/TicTacToeBoard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/boards/TicTacToeBoard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gamestate/Board.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gamestate/Cell.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/gamestate/Cell.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gamestate/GameResult.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/gamestate/GameResult.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gamestate/Move.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gamestate/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/gamestate/Player.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="/opt/homebrew/Cellar/maven/3.9.6/libexec" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2cPdTNHBZ1nIRk1H4bVf7eWhgWH" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.Main.executor": "Run",
+    "JUnit.GamePlayTest.executor": "Run",
+    "JUnit.GamePlayTest.test1.executor": "Run",
+    "JUnit.GamePlayTest.testAddition.executor": "Run",
+    "JUnit.GamePlayTest.testSubtraction.executor": "Run",
+    "Maven.TurnBasedGameAIEngine [clean,install].executor": "Run",
+    "Maven.TurnBasedGameAIEngine [clean].executor": "Run",
+    "Maven.TurnBasedGameAIEngine [install].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "ToolWindowEndpoints.ShowToolbar": "false",
+    "jdk.selected.JAVA_MODULE": "11",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/mayank_jalan/Documents/TurnBasedGameAIEngine",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "/Users/mayank_jalan/Documents/TurnBasedGameAIEngine/untitled/src/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "MavenSettings",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.Main" />
+      <module name="TurnBasedGameAIEngine" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GamePlayTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TurnBasedGameAIEngine" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GamePlayTest" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GamePlayTest.testAddition" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TurnBasedGameAIEngine" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GamePlayTest" />
+      <option name="METHOD_NAME" value="testAddition" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GamePlayTest.testSubtraction" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TurnBasedGameAIEngine" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GamePlayTest" />
+      <option name="METHOD_NAME" value="testSubtraction" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TurnBasedGameAIEngine [clean,install]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="cmdOptions" />
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="install" />
+              </list>
+            </option>
+            <option name="multimoduleDir" />
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="projectsCmdOptionValues">
+              <list />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="JUnit.GamePlayTest.testSubtraction" />
+      <item itemvalue="JUnit.GamePlayTest.test1" />
+      <item itemvalue="JUnit.GamePlayTest.testAddition" />
+      <item itemvalue="Maven.TurnBasedGameAIEngine [clean,install]" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.GamePlayTest.testAddition" />
+        <item itemvalue="JUnit.GamePlayTest.testSubtraction" />
+        <item itemvalue="JUnit.GamePlayTest.test1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="34ab0949-9822-45e9-8f04-66a38e6c9ae9" name="Changes" comment="" />
+      <created>1708017154472</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1708017154472</updated>
+      <workItem from="1708017155485" duration="12546000" />
+      <workItem from="1708243846069" duration="4094000" />
+      <workItem from="1708251576599" duration="843000" />
+      <workItem from="1708256553941" duration="643000" />
+      <workItem from="1708262129242" duration="174000" />
+      <workItem from="1708262309914" duration="1156000" />
+      <workItem from="1708266149458" duration="300000" />
+      <workItem from="1708266451339" duration="182000" />
+      <workItem from="1708266640936" duration="199000" />
+      <workItem from="1708266849558" duration="3611000" />
+      <workItem from="1708271009468" duration="6273000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
